@@ -1,13 +1,21 @@
-# node
+# Vue Template
+
+- `Vue`: Vue
+- `Router`: Vue-Router
+- `State`: Vuex
+- `Request`: axios
+- `FontIcon`: FontAwesome
+- `JavaScript`: Lodash
+- `Date`: moment
 
 ## Branches
 
 ```sh
-┌──────────────────────────────────────────┐       ┌─────────────────────────┐       ┌───────────┐       ┌──────────┐
-|                                          |       |                         |       |           |       |          |
-|  @langnang-temp/langnang-temp.github.io  | ====> |   @langnang-temp/node   | ====> |  develop  | ====> |  master  |
-|           Sync from template             |       |     Sync to remote      |       |           |       |          |
-└──────────────────────────────────────────┘       └─────────────────────────┘       └───────────┘       └──────────┘
+┌───────────────────────┐       ┌─────────────────────────┐       ┌───────────┐       ┌──────────┐
+|                       |       |                         |       |           |       |          |
+|  @langnang-temp/node  | ====> |    @langnang-temp/vue   | ====> |  develop  | ====> |  master  |
+|  Sync from template   |       |      Sync to remote     |       |           |       |          |
+└───────────────────────┘       └─────────────────────────┘       └───────────┘       └──────────┘
 ```
 
 ### Sync to remote
